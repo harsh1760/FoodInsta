@@ -169,7 +169,7 @@ The main goal of FoodInsta is to build a dedicated social media platform for foo
 # 👨‍💻 Author
 
 Harshad Shelar  
-Third Year Computer Science Engineering Student
+final Year Computer Science Engineering Student
 
 ---
 
